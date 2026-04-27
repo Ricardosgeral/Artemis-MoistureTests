@@ -1,0 +1,8 @@
+region: eu
+version: 2
+tunnels:
+  grafana:
+    proto: http
+    addr: host.docker.internal:3000
+    domain: positive-presumably-bluegill.ngrok-free.app
+    #domain: vetorial.xyz #needs a paid account
